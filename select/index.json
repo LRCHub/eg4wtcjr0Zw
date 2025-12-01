@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Numb Little Bug (Piano Version)",
+  "base_artist": "Em Beihold",
+  "createdAt": "2025-12-01T17:46:49.777660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/01_Numb_Little_Bug_(Piano_Version)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version Video)",
+      "artist": "Em Beihold",
+      "has_synced": false,
+      "path": "select/02_Numb_Little_Bug_(Piano_Version_Video)_Em_Beihold.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/03_Numb_Little_Bug_(Piano_Version)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version Video)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/04_Numb_Little_Bug_(Piano_Version_Video)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/05_Numb_Little_Bug_(Piano)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Numb Little Bug - Piano Version",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/06_Numb_Little_Bug_-_Piano_Version_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Em Beihold - Numb Little Bug (Piano Version Video)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/07_Em_Beihold_-_Numb_Little_Bug_(Piano_Version_Video)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version)",
+      "artist": "Kairos Covers",
+      "has_synced": false,
+      "path": "select/08_Numb_Little_Bug_(Piano_Version)_Kairos_Covers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Numb Little Bug (Piano Version)",
+      "artist": "Em Beihold",
+      "has_synced": false,
+      "path": "select/pl_01_Numb_Little_Bug_(Piano_Version)_Em_Beihold.txt"
+    }
+  ]
+}
